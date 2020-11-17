@@ -13,7 +13,7 @@ namespace ConsoleApp1_Mosh
 {
     class Program : NewClass
     {
-        static void Main(string[] args)
+        static void main(string[] args)
         {
             // Whatever program I want, I have to make sure I am putting it inside of this main, 
             //Because the execution starts from here
