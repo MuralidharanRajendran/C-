@@ -38,8 +38,8 @@ namespace ConsoleApp1_Mosh
             //WOW This is cool - Just Press alt+ Enter and take the first suggestion
             var obj = new Person
             {
-                FirstName = "Murali",
-                LastName = "Dhar"
+               // FirstName = "Murali",
+               // LastName = "Dhar"
             };
 
         }

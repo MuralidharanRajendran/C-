@@ -37,3 +37,16 @@ C:\Users\mural\source\repos\C#Tutorial\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3
 C:\Users\mural\source\repos\C#Tutorial\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\ConsoleApp1_Mosh.dll
 C:\Users\mural\source\repos\C#Tutorial\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\ConsoleApp1_Mosh.pdb
 C:\Users\mural\source\repos\C#Tutorial\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\ConsoleApp1_Mosh.genruntimeconfig.cache
+C:\Users\MuralidharanRajendra\Source\Repos\C-\ConsoleApp1_Mosh\bin\Debug\netcoreapp3.1\ConsoleApp1_Mosh.exe
+C:\Users\MuralidharanRajendra\Source\Repos\C-\ConsoleApp1_Mosh\bin\Debug\netcoreapp3.1\ConsoleApp1_Mosh.deps.json
+C:\Users\MuralidharanRajendra\Source\Repos\C-\ConsoleApp1_Mosh\bin\Debug\netcoreapp3.1\ConsoleApp1_Mosh.runtimeconfig.json
+C:\Users\MuralidharanRajendra\Source\Repos\C-\ConsoleApp1_Mosh\bin\Debug\netcoreapp3.1\ConsoleApp1_Mosh.runtimeconfig.dev.json
+C:\Users\MuralidharanRajendra\Source\Repos\C-\ConsoleApp1_Mosh\bin\Debug\netcoreapp3.1\ConsoleApp1_Mosh.dll
+C:\Users\MuralidharanRajendra\Source\Repos\C-\ConsoleApp1_Mosh\bin\Debug\netcoreapp3.1\ConsoleApp1_Mosh.pdb
+C:\Users\MuralidharanRajendra\Source\Repos\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\ConsoleApp1_Mosh.csprojAssemblyReference.cache
+C:\Users\MuralidharanRajendra\Source\Repos\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\ConsoleApp1_Mosh.AssemblyInfoInputs.cache
+C:\Users\MuralidharanRajendra\Source\Repos\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\ConsoleApp1_Mosh.AssemblyInfo.cs
+C:\Users\MuralidharanRajendra\Source\Repos\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\ConsoleApp1_Mosh.csproj.CoreCompileInputs.cache
+C:\Users\MuralidharanRajendra\Source\Repos\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\ConsoleApp1_Mosh.dll
+C:\Users\MuralidharanRajendra\Source\Repos\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\ConsoleApp1_Mosh.pdb
+C:\Users\MuralidharanRajendra\Source\Repos\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\ConsoleApp1_Mosh.genruntimeconfig.cache
