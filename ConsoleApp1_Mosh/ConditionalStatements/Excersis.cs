@@ -20,7 +20,7 @@ namespace ConsoleApp1_Mosh
             try
             {
                 var input = Console.ReadLine();
-                Console.WriteLine(input.GetType());
+               // Console.WriteLine(input.GetType());
                 Console.WriteLine(input);
                 int val = Int32.Parse(input);
 
@@ -52,9 +52,12 @@ namespace ConsoleApp1_Mosh
                 Console.WriteLine("Enter the first number: ");
                 string val1 = Console.ReadLine();
                 var int1 = Int32.Parse(val1);
+
+                // You can do this in a single step 
+                // var number1 = Convert.ToInt32(Console.ReadLine())
+
                 Console.WriteLine("Enter the second number: ");
-                string val2 = Console.ReadLine();
-                var int2 = Int32.Parse(val2);
+                var int2 = Int32.Parse(Console.ReadLine());
 
                 int res = (int1 > int2) ? int1 : int2;
                 Console.WriteLine(string.Format("The greatest number is {0}", res));
@@ -136,6 +139,11 @@ namespace ConsoleApp1_Mosh
                 Console.WriteLine("Enter the speed limit: ");
                 var splim = Console.ReadLine();
                 int speedlimit = Int32.Parse(splim);
+                
+                //you can also use below
+                //var number = Convert.ToInt32(input);
+
+
                 //Enter speed of car
                 Console.WriteLine("Enter the speed of the car: ");
                 var carsp = Console.ReadLine();
