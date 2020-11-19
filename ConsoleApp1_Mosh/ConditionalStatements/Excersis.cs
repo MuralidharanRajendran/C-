@@ -168,7 +168,7 @@ namespace ConsoleApp1_Mosh
             }
         }
 
-            public static void Main(string[] args) {
+            public static void main(string[] args) {
 
             prob4();
 

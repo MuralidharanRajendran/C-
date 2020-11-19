@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MuralidharanRajendra\\Desktop\\WorkSpace\\ConsoleApp1_Mosh\\C-\\ConsoleApp1_Mosh\\ConsoleApp1_Mosh.csproj": {}
+    "C:\\Users\\mural\\Source\\repos\\C-\\C-\\ConsoleApp1_Mosh\\ConsoleApp1_Mosh.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MuralidharanRajendra\\Desktop\\WorkSpace\\ConsoleApp1_Mosh\\C-\\ConsoleApp1_Mosh\\ConsoleApp1_Mosh.csproj": {
+    "C:\\Users\\mural\\Source\\repos\\C-\\C-\\ConsoleApp1_Mosh\\ConsoleApp1_Mosh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MuralidharanRajendra\\Desktop\\WorkSpace\\ConsoleApp1_Mosh\\C-\\ConsoleApp1_Mosh\\ConsoleApp1_Mosh.csproj",
+        "projectUniqueName": "C:\\Users\\mural\\Source\\repos\\C-\\C-\\ConsoleApp1_Mosh\\ConsoleApp1_Mosh.csproj",
         "projectName": "ConsoleApp1_Mosh",
-        "projectPath": "C:\\Users\\MuralidharanRajendra\\Desktop\\WorkSpace\\ConsoleApp1_Mosh\\C-\\ConsoleApp1_Mosh\\ConsoleApp1_Mosh.csproj",
-        "packagesPath": "C:\\Users\\MuralidharanRajendra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MuralidharanRajendra\\Desktop\\WorkSpace\\ConsoleApp1_Mosh\\C-\\ConsoleApp1_Mosh\\obj\\",
+        "projectPath": "C:\\Users\\mural\\Source\\repos\\C-\\C-\\ConsoleApp1_Mosh\\ConsoleApp1_Mosh.csproj",
+        "packagesPath": "C:\\Users\\mural\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mural\\Source\\repos\\C-\\C-\\ConsoleApp1_Mosh\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MuralidharanRajendra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mural\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,9 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.feenics.com/nuget": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com/feenicsinc/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
