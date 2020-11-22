@@ -1,0 +1,13 @@
+C:\Users\mural\Source\repos\C-\C-\ConsoleApp1_Mosh\bin\Debug\netcoreapp3.1\CS-Basics.exe
+C:\Users\mural\Source\repos\C-\C-\ConsoleApp1_Mosh\bin\Debug\netcoreapp3.1\CS-Basics.deps.json
+C:\Users\mural\Source\repos\C-\C-\ConsoleApp1_Mosh\bin\Debug\netcoreapp3.1\CS-Basics.runtimeconfig.json
+C:\Users\mural\Source\repos\C-\C-\ConsoleApp1_Mosh\bin\Debug\netcoreapp3.1\CS-Basics.runtimeconfig.dev.json
+C:\Users\mural\Source\repos\C-\C-\ConsoleApp1_Mosh\bin\Debug\netcoreapp3.1\CS-Basics.dll
+C:\Users\mural\Source\repos\C-\C-\ConsoleApp1_Mosh\bin\Debug\netcoreapp3.1\CS-Basics.pdb
+C:\Users\mural\Source\repos\C-\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\CS-Basics.csprojAssemblyReference.cache
+C:\Users\mural\Source\repos\C-\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\CS-Basics.AssemblyInfoInputs.cache
+C:\Users\mural\Source\repos\C-\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\CS-Basics.AssemblyInfo.cs
+C:\Users\mural\Source\repos\C-\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\CS-Basics.csproj.CoreCompileInputs.cache
+C:\Users\mural\Source\repos\C-\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\CS-Basics.dll
+C:\Users\mural\Source\repos\C-\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\CS-Basics.pdb
+C:\Users\mural\Source\repos\C-\C-\ConsoleApp1_Mosh\obj\Debug\netcoreapp3.1\CS-Basics.genruntimeconfig.cache
