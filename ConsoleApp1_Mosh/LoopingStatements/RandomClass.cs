@@ -6,7 +6,7 @@ namespace ConsoleApp1_Mosh.LoopingStatements
 {
     class RandomClass
     {
-        public static void Main(string[] args)
+        public static void main(string[] args)
         {
 
             var random = new Random();
