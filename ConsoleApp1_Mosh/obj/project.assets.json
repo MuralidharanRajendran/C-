@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mural\\Source\\repos\\C-\\C-\\ConsoleApp1_Mosh\\ConsoleApp1_Mosh.csproj",
-      "projectName": "ConsoleApp1_Mosh",
-      "projectPath": "C:\\Users\\mural\\Source\\repos\\C-\\C-\\ConsoleApp1_Mosh\\ConsoleApp1_Mosh.csproj",
+      "projectUniqueName": "C:\\Users\\mural\\Source\\repos\\C-\\C-\\ConsoleApp1_Mosh\\CS-Basics.csproj",
+      "projectName": "CS-Basics",
+      "projectPath": "C:\\Users\\mural\\Source\\repos\\C-\\C-\\ConsoleApp1_Mosh\\CS-Basics.csproj",
       "packagesPath": "C:\\Users\\mural\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mural\\Source\\repos\\C-\\C-\\ConsoleApp1_Mosh\\obj\\",
       "projectStyle": "PackageReference",

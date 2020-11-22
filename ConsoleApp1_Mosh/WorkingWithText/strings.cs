@@ -6,8 +6,9 @@ namespace ConsoleApp1_Mosh.WorkingWithText
 {
     class strings
     {
-        public static void Main()
+        public static void main()
         {
+
 
             // Formatting
             // 1. ToLower()  2. ToUpper()  3. Trim() - Remove white space at beginning or at end of a string

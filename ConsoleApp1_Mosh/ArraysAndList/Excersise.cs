@@ -6,6 +6,7 @@ namespace ConsoleApp1_Mosh.ArraysAndList
 {
     class Excersise
     {
+        //ctrl + w  -> To select a loop;
 
         public static void main(string[] args) {
 
